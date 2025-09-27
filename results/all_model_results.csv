@@ -1,0 +1,7 @@
+Model,Accuracy,Type
+Random Forest,1.0,Classical ML
+Logistic Regression,1.0,Classical ML
+SVM,1.0,Classical ML
+CNN,1.0,Deep Learning
+RNN,0.1538461595773697,Deep Learning
+Transformer,0.1538461595773697,Deep Learning

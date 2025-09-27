@@ -1,0 +1,7 @@
+Model,Type,Accuracy,Precision,Recall,F1-Score
+Random Forest,Classical ML,1.0,1.0,1.0,1.0
+Logistic Regression,Classical ML,1.0,1.0,1.0,1.0
+Svm,Classical ML,1.0,1.0,1.0,1.0
+CNN,Deep Learning,1.0,1.0,1.0,1.0
+RNN,Deep Learning,0.15384615384615385,0.019230769230769232,0.125,0.03333333333333334
+Transformer,Deep Learning,0.15384615384615385,0.022727272727272728,0.125,0.038461538461538464
